@@ -25,7 +25,7 @@ h3{font-family:Inter,system-ui,sans-serif;font-size:1.05rem;margin:24px 0 6px}
 .tl{list-style:none;padding:0;margin:0}.tl li{display:grid;grid-template-columns:110px 1fr;gap:16px;padding:10px 0;border-bottom:1px dashed var(--line)}
 .tl .yr{color:var(--muted);font:500 14px Inter,system-ui,sans-serif;padding-top:3px}
 @media (max-width:520px){.tl li{grid-template-columns:1fr;gap:2px}}
-.btn{display:inline-block;padding:9px 18px;border-radius:8px;background:var(--accent);color:#fff;font:500 15px Inter,system-ui,sans-serif;margin:6px 8px 0 0}
+.btn{display:inline-block;padding:9px 18px;border-radius:8px;background:var(--accent);color:var(--card);font:500 15px Inter,system-ui,sans-serif;margin:6px 8px 0 0}
 .btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
 .btn:hover{text-decoration:none;opacity:.9}
 footer{border-top:1px solid var(--line);padding:24px 0;color:var(--muted);font:14px Inter,system-ui,sans-serif;text-align:center}
