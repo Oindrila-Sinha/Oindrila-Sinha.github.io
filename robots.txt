@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /website-files/
+Disallow: /oindrila-website/
+
+Sitemap: https://oindrila-sinha.github.io/sitemap.xml
